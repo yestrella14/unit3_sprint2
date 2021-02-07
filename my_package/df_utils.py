@@ -3,3 +3,4 @@ import numpy as np
 
 ONES = pd.Series(np.ones(10))
 ZEROS = pd.Series(np.zeros(5))
+print(ONES)
